@@ -68,3 +68,6 @@ fastlane/test_output
 iOSInjectionProject/
 
 .DS_Store
+Package.resolved
+/facebook_demo.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/facebook_demo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
